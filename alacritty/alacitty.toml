@@ -1,0 +1,7 @@
+[env]
+TERM = "xterm-256color"
+
+import = ["~/.config/alacritty/catppuccin-mocha.toml"]
+
+[appearance]
+font = "Fira Code:size=10"
