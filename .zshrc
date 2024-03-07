@@ -106,6 +106,9 @@ alias ga="git add"
 alias gcm="git commit -m"
 alias gp="git pull"
 alias gpsh="git push"
+
+#screensharing
+alias sharescreen="xrandr --output HDMI-1 --same-as eDP-1 --mode 1920x1080"
 # pnpm
 alias pn="pnpm"
 export PNPM_HOME="/home/tj/.local/share/pnpm"
